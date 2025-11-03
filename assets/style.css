@@ -191,6 +191,7 @@ body {
     display: inline-block;
     width: 150px;
     height: 50px;
+
     background-color: var(--primary);
     color: white;
     border-radius: 4px;
@@ -261,47 +262,6 @@ body {
     cursor: pointer;
 }
 
-/* Poll Section */
-.poll-section {
-    background-color: #f9f9f9;
-}
-
-.poll-container {
-    gap: 50px;
-}
-
-.poll-column {
-    flex: 1;
-    min-width: 300px;
-    background: white;
-    border-radius: 8px;
-    padding: 30px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-}
-
-.poll-column h2 {
-    margin-bottom: 20px;
-    color: var(--primary);
-    font-size: 1.5rem;
-}
-
-.poll-column ul {
-    list-style: none;
-}
-
-.poll-column ul li {
-    padding: 10px 0;
-    border-bottom: 1px solid var(--border);
-    position: relative;
-    padding-left: 20px;
-}
-
-.poll-column ul li:before {
-    content: '•';
-    color: var(--primary);
-    position: absolute;
-    left: 0;
-}
 
 /* Focus Section */
 .focus-section {
