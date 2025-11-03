@@ -48,7 +48,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
                     <h1>REALM OF CONTEMPORARY OPPORTUNITIES</h1>
                     <p>In today's rapidly evolving world, we create pathways for individuals and communities to access new possibilities and build better futures.</p>
                     <p>Our programs are designed to address current challenges while preparing for tomorrow's opportunities.</p>
-                    <div class="btn opportunities-btn">Know More</div>
+                    <div class="opportunities-btn">Know More</div>
                 </div>
                 <div class="opportunities-image">
                     <div class="image-placeholder">📈</div>
@@ -70,38 +70,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
         </div>
     </section>
 
-    <!-- Poll Section -->
-    <section class="poll-section section-padding">
-        <div class="container">
-            <h1 class="section-title">Let's Take a Poll</h1>
-            <div class="flex poll-container">
-                <div class="poll-column">
-                    <h2>Community Priorities</h2>
-                    <ul>
-                        <li>Education and skill development programs</li>
-                        <li>Healthcare access and awareness</li>
-                        <li>Economic empowerment initiatives</li>
-                        <li>Environmental sustainability projects</li>
-                        <li>Digital literacy and technology access</li>
-                        <li>Women and youth empowerment</li>
-                        <li>Infrastructure development</li>
-                    </ul>
-                </div>
-                <div class="poll-column">
-                    <h2>Your Impact Preferences</h2>
-                    <ul>
-                        <li>Direct community volunteering</li>
-                        <li>Financial contributions</li>
-                        <li>Skill-based volunteering</li>
-                        <li>Advocacy and awareness building</li>
-                        <li>Mentoring and guidance</li>
-                        <li>Resource mobilization</li>
-                        <li>Program design and evaluation</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
     <!-- Focus Section -->
     <section class="focus-section section-padding">
