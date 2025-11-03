@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ABCEL - Enriching Lives</title>
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="pages/headerFooter.css">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/headerFooter.css">
 </head>
 <body>
     <!-- Header Section -->
@@ -158,7 +158,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
 
     <!-- Footer Section -->
 
-    <?php include 'includes/footer.php' ?>
+    <?php include('includes/footer.php'); ?>
 
     <script src="script.js"></script>
 </body>
