@@ -3,7 +3,9 @@
         <nav class="navbar">
             <div class="container flex">
                 <div class="logo">
-                    <h1>ABCEL</h1>
+                    <a href="/project">
+                        <img src="/project/assets/logo.png" alt="ABCEL Logo" class="logo-img" style="width: 200px; height: auto;">
+                    </a>
                 </div>
                 <ul class="nav-links">
                     <li><a href="/project">Home</a></li>
