@@ -74,6 +74,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/project/assets/headerFooter.css">
     <title>Sign Up</title>
     <style>
         * {
@@ -81,15 +82,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             padding: 0;
             box-sizing: border-box;
         }
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-        }
-        .container {
+        .container2 {
+            margin-left: auto;
+            margin-right: auto;
+            width: 40%;
             background: white;
             padding: 2rem;
             border-radius: 8px;
@@ -155,7 +151,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </style>
 </head>
 <body>
-    <div class="container">
+    <?php include('../includes/header.php'); ?>
+    <div class="container2">
         <h2>Create Account</h2>
         
         <?php if ($success): ?>
@@ -210,5 +207,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             Already have an account? <a href="login.php">Login here</a>
         </div>
     </div>
+    <?php include('../includes/footer.php'); ?>
 </body>
 </html>

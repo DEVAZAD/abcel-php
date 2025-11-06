@@ -33,7 +33,7 @@ $username = $_SESSION['username'];
             justify-content: space-between;
             align-items: center;
         }
-        .container {
+        .container2 {
             max-width: 800px;
             margin: 2rem auto;
             padding: 2rem;
@@ -62,7 +62,7 @@ $username = $_SESSION['username'];
         <a href="logout.php" class="btn">Logout</a>
     </nav>
 
-    <div class="container">
+    <div class="container2">
         <h2>Dashboard</h2>
         <p>You have successfully logged in to your account.</p>
         <p>This is a protected page that only logged-in users can access.</p>
