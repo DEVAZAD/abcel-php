@@ -25,17 +25,17 @@
                 <div class="idea-card">
                     <div class="idea-icon">💡</div>
                     <h3>Innovation</h3>
-                    <p>Creating novel solutions to address community challenges through creative thinking.</p>
+                    <p>Let’s Enrich Society by Enriching Lives. One at a time.</p>
                 </div>
                 <div class="idea-card">
                     <div class="idea-icon">🤝</div>
                     <h3>Collaboration</h3>
-                    <p>Working together with communities to build sustainable development models.</p>
+                    <p>By inspiring change. One nudge at a time</p>
                 </div>
                 <div class="idea-card">
                     <div class="idea-icon">🌱</div>
                     <h3>Sustainability</h3>
-                    <p>Developing programs that create lasting impact for future generations.</p>
+                    <p>By inspiring trust. One experience at a time</p>
                 </div>
             </div>
             <p class="idea-description">Join us in this journey of exploring the significance and implications of purposeful living for the urban
@@ -49,8 +49,8 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
             <div class="flex opportunities-container">
                 <div class="opportunities-content">
                     <h1>REALM OF CONTEMPORARY OPPORTUNITIES</h1>
-                    <p>In today's rapidly evolving world, we create pathways for individuals and communities to access new possibilities and build better futures.</p>
-                    <p>Our programs are designed to address current challenges while preparing for tomorrow's opportunities.</p>
+                    <p>As India and the world are at the brink of change, there is a surge of contemporary opportunities for individuals and the larger ecosystem. We, the urban aspirational cohort, possess formidable potential to capitalize on these opportunities that intersect with everyday phenomena.</p>
+                    <p>Let's explore the contemporary opportunities.</p>
                     <div class="opportunities-btn">Know More</div>
                 </div>
                 <div class="opportunities-image">
@@ -63,11 +63,11 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
     <!-- Mission Section -->
     <section class="mission-section section-padding">
         <div class="container">
-            <h1>Creating Sustainable Impact Through Community Engagement</h1>
-            <p>At ABCEL, we believe that real change happens when communities are empowered to drive their own development. Our approach combines local knowledge with global best practices to create solutions that are both effective and sustainable.</p>
-            <p>We work across multiple sectors including education, healthcare, economic development, and environmental sustainability, always with a focus on building local capacity and leadership.</p>
-            <p>Our programs have reached over 50,000 individuals across 200 communities, creating measurable improvements in quality of life and economic opportunities.</p>
-            <p>We measure our success not just by numbers, but by the stories of transformation and the sustainable systems we help build.</p>
+            <h1>One connection Can turn into many. Creating a network of opportunities</h1>
+            <p>Sharing our thoughts, emotions, and inspirations creates an empathetic space to offer visibility to one another. It supports identifying and exploring new opportunities for collective good.</p>
+            <p>When we share a nugget like a childhood story or perhaps an industry learning, we take the first step towards driving a movement.</p>
+            <p>A movement which transforms the means to a fulfilling day's end, the sparkplug of life - the small joys.</p>
+            <p>Let's embrace these joyous moments which already are a part of our lives.</p>
             <h2>Watch this video now</h2>
             <div class="video-placeholder">▶️</div>
         </div>
@@ -96,7 +96,8 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
                     <div class="image-placeholder"></div>
                 </div>
                 <div class="join-content">
-                    <p>"At ABCEL, we believe that every individual has the potential to create change. Our mission is to unlock that potential and channel it toward building stronger, more resilient communities."</p>
+                    <p>"The foundation of the Aditya Birla Group, rests upon a philosophy of trusteeship, which imagines corporations as institutions that drive collective prosperity. In some ways, this nuanced reimagining of capitalism was cemented in the profound and enduring friendship between Mahatma Gandhi and our Group's patriarch, Mr. G. D. Birla. This extract from his letter to shareholders, more than 50 years ago is instructive."</p>
+                    <p><em>“How does one judge a Company?"....</em></p>
                     <p class="signature">- Dr. Rajesh Sharma, Chairman</p>
                 </div>
             </div>

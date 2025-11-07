@@ -20,11 +20,10 @@ body {
     background-color: var(--light);
     color: var(--dark);
     line-height: 1.6;
-}
-
-.content {
     padding: 20px 200px;
 }
+
+.content {}
 
 /* The Idea Section */
 .idea-container {
