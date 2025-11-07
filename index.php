@@ -17,7 +17,7 @@
 
     <!-- The Idea Section -->
     <section class="idea-section section-padding">
-        <div class="container">
+        <div class="container2">
             <h1 class="section-title">THE IDEA</h1>
             <div class="flex idea-container">
                 <div class="idea-card">
@@ -130,6 +130,6 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
 
     <?php include('includes/footer.php'); ?>
 
-    <script src="script.js"></script>
+    <script src="assets/script.js"></script>
 </body>
 </html>
