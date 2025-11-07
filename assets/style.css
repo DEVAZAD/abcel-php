@@ -23,7 +23,7 @@ body {
 }
 
 .content {
-    padding: 20px 100px;
+    padding: 20px 200px;
 }
 
 /* The Idea Section */
@@ -119,7 +119,7 @@ body {
 .image-placeholder {
     width: 100%;
     height: 300px;
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    background: url('../assets/bann1.png') center/cover;
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -187,7 +187,7 @@ body {
 .image-placeholder-large {
     width: 100%;
     height: 400px;
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
+    background: url('../assets/slid1.png') center/cover;
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -237,13 +237,12 @@ body {
 }
 
 .news-card {
-    flex: 1;
-    min-width: 250px;
-    background: white;
+    max-width: 300px;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
     transition: transform 0.3s;
+    text-align: center;
 }
 
 .news-card:hover {
@@ -252,12 +251,19 @@ body {
 
 .news-image {
     height: 200px;
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-size: 3rem;
+    width: auto;
+}
+
+.newsim1 {
+    background: url('../assets/im1.jpg') center/cover;
+}
+
+.newsim2 {
+    background: url('../assets/im2.jpg') center/cover;
+}
+
+.newsim3 {
+    background: url('../assets/im3.jpg') center/cover;
 }
 
 .news-card h3 {

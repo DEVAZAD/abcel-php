@@ -81,7 +81,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
             <h1>Our Focus Areas for Community Development</h1>
             <p>We target specific areas where intervention can create the most significant and lasting impact.</p>
             <div class="focus-image">
-                <div class="image-placeholder-large">👥</div>
+                <div class="image-placeholder-large"></div>
             </div>
         </div>
     </section>
@@ -109,17 +109,17 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
             <h1 class="section-title">What's New?</h1>
             <div class="flex news-container">
                 <div class="news-card">
-                    <div class="news-image">🎓</div>
+                    <div class="news-image newsim1"></div>
                     <h3>Education Initiative</h3>
                     <p>Launching our new digital literacy program for rural youth with 500 participants enrolled.</p>
                 </div>
                 <div class="news-card">
-                    <div class="news-image">❤️</div>
+                    <div class="news-image newsim2"></div>
                     <h3>Community Health</h3>
                     <p>Our mobile health clinics have served over 2,000 patients in remote areas this quarter.</p>
                 </div>
                 <div class="news-card">
-                    <div class="news-image">🌳</div>
+                    <div class="news-image newsim3"></div>
                     <h3>Environmental Project</h3>
                     <p>Planted 5,000 trees as part of our green communities initiative with local volunteers.</p>
                 </div>
