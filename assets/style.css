@@ -22,7 +22,9 @@ body {
     line-height: 1.6;
 }
 
-
+.content {
+    padding: 20px 100px;
+}
 
 /* The Idea Section */
 .idea-container {

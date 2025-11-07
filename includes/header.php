@@ -1,10 +1,10 @@
 
 <header id="head">
         <nav class="navbar">
-            <div class="container flex">
+            <div class="head-container flex">
                 <div class="logo">
                     <a href="/project">
-                        <img src="/project/assets/logo.png" alt="ABCEL Logo" class="logo-img" style="width: 200px; height: auto;">
+                        <img src="/project/assets/logo.png" alt="ABCEL Logo" class="logo-img" style="width: 180px; height: auto;">
                     </a>
                 </div>
                 <ul class="nav-links">

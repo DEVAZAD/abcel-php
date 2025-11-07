@@ -22,10 +22,10 @@ body {
     line-height: 1.6;
 }
 
-.container {
+.head-container {
     width: 100%;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 5px 40px;
 }
 
 .flex {
@@ -97,7 +97,7 @@ body {
 }
 
 .navbar {
-    padding: 12px 0;
+    padding: 0;
 }
 
 
@@ -115,6 +115,7 @@ body {
     color: var(--dark);
     font-weight: 500;
     transition: color 0.3s;
+    font-size: 1.1em;
 }
 
 .nav-links li a:hover {

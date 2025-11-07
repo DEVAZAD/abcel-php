@@ -11,10 +11,12 @@
 <body>
     <!-- Header Section -->
     <?php include 'includes/header.php' ?>
-
+    
+    <div class="content">
     <!-- Slider Section -->
     <?php include 'includes/slider.php'?>
 
+    
     <!-- The Idea Section -->
     <section class="idea-section section-padding">
         <div class="container2">
@@ -126,6 +128,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
         </div>
     </section>
 
+    </div>
     <!-- Footer Section -->
 
     <?php include('includes/footer.php'); ?>
