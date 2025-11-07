@@ -54,7 +54,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
                     <div class="opportunities-btn">Know More</div>
                 </div>
                 <div class="opportunities-image">
-                    <div class="image-placeholder">📈</div>
+                    <div class="image-placeholder"></div>
                 </div>
             </div>
         </div>
@@ -93,7 +93,7 @@ aspirational class, and more specifically, for our focus groups. <a href="#" cla
             <h2 class="section-subtitle">Chairman's Message</h2>
             <div class="flex join-container">
                 <div class="join-image">
-                    <div class="image-placeholder">👔</div>
+                    <div class="image-placeholder"></div>
                 </div>
                 <div class="join-content">
                     <p>"At ABCEL, we believe that every individual has the potential to create change. Our mission is to unlock that potential and channel it toward building stronger, more resilient communities."</p>
