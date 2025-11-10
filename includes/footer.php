@@ -10,7 +10,7 @@
                     <ul>
                         <li><a href="/project">Home</a></li>
                         <li><a href="/project/pages/about.php">About Us</a></li>
-                        <li><a href="/project/pages/">Programs</a></li>
+                        <li><a href="/project/pages/programs.php">Programs</a></li>
                         <li><a href="/project/pages/contact.php">Get Involved</a></li>
                     </ul>
                 </div>
